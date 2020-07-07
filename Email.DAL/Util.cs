@@ -2,7 +2,7 @@
 
 namespace Email.DAL
 {
-    public class Class1
+    public class Util
     {
     }
 }
